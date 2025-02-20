@@ -15,8 +15,8 @@ html, body {
 }
 
 .centered-image {
-    width: 45px; /* Adjust size as needed */
-    height: 45px;
+    width: 40px; /* Adjust size as needed */
+    height: 40px;
     margin-bottom: 20px; /* Space between image and text */
 }
 
