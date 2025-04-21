@@ -1,0 +1,36 @@
+/* styles.css */
+html, body {
+    font-family: "Fira Code", monospace;
+    background-color: #262626;
+    color: #D3D3D3;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items inside */
+}
+
+.centered-image {
+    width: 42px;
+    height: 42px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1em;
+    line-height: 2;
+
+}
+
